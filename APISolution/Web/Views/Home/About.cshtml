@@ -1,0 +1,13 @@
+﻿@model Web.ViewModels.CodigoFonteViewModel
+
+@{
+    ViewBag.Title = "Código-Fonte";
+}
+<h2>@ViewBag.Title</h2>
+<h3>@ViewBag.Message</h3>
+
+<div class="row">
+    <div class="col-md-12">
+        <a href="@Model.UrlGit" target="_blank">@Model.UrlGit</a>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+C:\Users\marcela.p\Documents\_Projetos\api-calculajuros\APISolution\API.Infra\obj\Debug\netcoreapp3.1\API.Infra.csprojAssemblyReference.cache
+C:\Users\marcela.p\Documents\_Projetos\api-calculajuros\APISolution\API.Infra\obj\Debug\netcoreapp3.1\API.Infra.AssemblyInfoInputs.cache
+C:\Users\marcela.p\Documents\_Projetos\api-calculajuros\APISolution\API.Infra\obj\Debug\netcoreapp3.1\API.Infra.AssemblyInfo.cs
+C:\Users\marcela.p\Documents\_Projetos\api-calculajuros\APISolution\API.Infra\obj\Debug\netcoreapp3.1\API.Infra.csproj.CoreCompileInputs.cache
+C:\Users\marcela.p\Documents\_Projetos\api-calculajuros\APISolution\API.Infra\bin\Debug\netcoreapp3.1\API.Infra.deps.json
+C:\Users\marcela.p\Documents\_Projetos\api-calculajuros\APISolution\API.Infra\bin\Debug\netcoreapp3.1\API.Infra.dll
+C:\Users\marcela.p\Documents\_Projetos\api-calculajuros\APISolution\API.Infra\bin\Debug\netcoreapp3.1\API.Infra.pdb
+C:\Users\marcela.p\Documents\_Projetos\api-calculajuros\APISolution\API.Infra\obj\Debug\netcoreapp3.1\API.Infra.dll
+C:\Users\marcela.p\Documents\_Projetos\api-calculajuros\APISolution\API.Infra\obj\Debug\netcoreapp3.1\API.Infra.pdb

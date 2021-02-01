@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API.TaxaJuros\API.csproj", "{B3823058-D416-4964-8039-A093B558DCBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API.TaxaJuros\API.csproj", "{B3823058-D416-4964-8039-A093B558DCBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Testes", "API.Testes\API.Testes.csproj", "{EA253E15-C9E7-4819-85CB-BAB5395C05AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Testes", "API.Testes\API.Testes.csproj", "{EA253E15-C9E7-4819-85CB-BAB5395C05AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{18626D71-A3DF-405B-AC6A-811264FC54E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EA253E15-C9E7-4819-85CB-BAB5395C05AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA253E15-C9E7-4819-85CB-BAB5395C05AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA253E15-C9E7-4819-85CB-BAB5395C05AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18626D71-A3DF-405B-AC6A-811264FC54E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18626D71-A3DF-405B-AC6A-811264FC54E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18626D71-A3DF-405B-AC6A-811264FC54E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18626D71-A3DF-405B-AC6A-811264FC54E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
