@@ -8,12 +8,6 @@ O projeto tem a seguinte estrutura:
 - API.Testes (Testes unitários)
 - Web (Interface em .NET MVC chamando a API)
 
-# Como sereia o projeto 100% pronto
-
-Eu entregaria em uma estrutura DDD, mesmo não tendo acesso a banco de dados. Criaria classes para Juros e para o Cálculo. Assim, conseguiria usá-las nos testes.
-Usaria Docker na API e no projeto Web.
-Desenvolveria os testes no conceito TDD.
-
 # Projeto API
 
 A API tem dois controllers:
@@ -29,3 +23,9 @@ A API está configurada com Swagger. Então, consegue testá-la no navegador, ro
 
 Faça download do código-fonte. Clique com o botão direito na Solution, e coloque para iniciar a API e o Web juntos. Assim, consegue testar pela interface o retorno dos endpoints.
 Se quiser testar só a API, basta colocar o projeto da API como projeto inicial, e rodar.
+
+# Como sereia o projeto 100% pronto
+
+Eu entregaria em uma estrutura DDD, mesmo não tendo acesso a banco de dados. Criaria classes para Juros e para o Cálculo. Assim, conseguiria usá-las nos testes.
+Usaria Docker na API e no projeto Web.
+Desenvolveria os testes no conceito TDD.
