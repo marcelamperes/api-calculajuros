@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace API.Testes
 {
-    public class Tests
+    public class Testar_Calculo
     {
         [SetUp]
         public void Setup()
