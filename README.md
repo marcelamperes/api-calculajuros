@@ -4,9 +4,9 @@ Projeto de cálculo de juros usando .NET Core
 # Estrutura
 
 O projeto tem a seguinte estrutura:
-> API (API em .NET Core)
-> API.Testes (Testes unitários)
-> Web (Interface em .NET MVC chamando a API)
+- API (API em .NET Core)
+- API.Testes (Testes unitários)
+- Web (Interface em .NET MVC chamando a API)
 
 # Como sereia o projeto 100% pronto
 
@@ -17,11 +17,11 @@ Desenvolveria os testes no conceito TDD.
 # Projeto API
 
 A API tem dois controllers:
-> TaxaJurosController
-  > Tem o endpoint /taxaJuros que retorna o valor 0.01, que está configurado no arquivo appsettings.json.
-> CalculaJurosController
-  > Tem o endpoint /calculajuros, que recebe de parâmetro o valorinicial (double) e os meses (int), para fazer o cálculo do juros composto. Nesse endpoint tem uma chamada request para o endpoint /taxaJuros para retornar o valor do juros que é fixo. Ele retorna o cálculo: valorinicial * (1 + juros) ^ meses.
-  > Tem o endpoint /showmethecode que retorna a URL do git, que está configurado no arquivo appsettings.json.
+- TaxaJurosController
+  - Tem o endpoint /taxaJuros que retorna o valor 0.01, que está configurado no arquivo appsettings.json.
+- CalculaJurosController
+  - Tem o endpoint /calculajuros, que recebe de parâmetro o valorinicial (double) e os meses (int), para fazer o cálculo do juros composto. Nesse endpoint tem uma chamada request para o endpoint /taxaJuros para retornar o valor do juros que é fixo. Ele retorna o cálculo: valorinicial * (1 + juros) ^ meses.
+  - Tem o endpoint /showmethecode que retorna a URL do git, que está configurado no arquivo appsettings.json.
 
 A API está configurada com Swagger. Então, consegue testá-la no navegador, rodando o projeto em localhost.
 
